@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rezaul Hoque and  mostly work on JavaScript.</h2>
+<h2 align="left">Hi 👋! My name is Rezaul Hoque and  mostly I work on JavaScript.</h2>
 
 ###
 
