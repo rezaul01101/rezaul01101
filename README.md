@@ -8,17 +8,11 @@ I'm not just a coder — I’m a team player who believes the best projects happ
 I always take the extra step to dive into challenges because that's where the real growth happens! 🚀
 
 ## 🛠️ Skills
-<p align="center">
-  <img align="top" width="45%" src="https://img.shields.io/badge/Frontend-React.js%20%7C%20Next.js%20%7C%20JavaScript%20%7C%20TailwindCSS-blue?style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="top" width="45%" src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express.js%20%7C%20Laravel-green?style=for-the-badge" />
-</p>
+- **Frontend:**                                        - **Backend:** 
+  React.js | Next.js | JavaScript | Tailwind CSS         Node.js | Express.js | Laravel
 
-<p align="center">
-  <img align="top" width="45%" src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20MySQL%20%7C%20MongoDB%20%7C%20Prisma-yellow?style=for-the-badge" />
-  &nbsp;&nbsp;&nbsp;
-  <img align="top" width="45%" src="https://img.shields.io/badge/DevOps%20%2F%20Tools-Basic%20Docker%20%7C%20Cloudflare%20R2-red?style=for-the-badge" />
-</p>
+- **Database:**                                        - **DevOps / Tools:**  
+  PostgreSQL | MySQL | MongoDB | Prisma                  Basic Docker | Cloudflare R2 (Video Streaming)
 
 ## 🤝 Teamwork & Challenges
 - Love collaborating in a team environment 🧑‍🤝‍🧑
