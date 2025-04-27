@@ -8,11 +8,18 @@ I'm not just a coder — I’m a team player who believes the best projects happ
 I always take the extra step to dive into challenges because that's where the real growth happens! 🚀
 
 ## 🛠️ Skills
-- **Frontend:**                                        - **Backend:** 
-  React.js | Next.js | JavaScript | Tailwind CSS         Node.js | Express.js | Laravel
+- **Frontend:**  
+  React.js | Next.js | JavaScript | Tailwind CSS
 
-- **Database:**                                        - **DevOps / Tools:**  
-  PostgreSQL | MySQL | MongoDB | Prisma                  Basic Docker | Cloudflare R2 (Video Streaming)
+- **Backend:**  
+  Node.js | Express.js | Laravel
+
+- **Database:**  
+  PostgreSQL | MySQL | MongoDB | Prisma
+
+- **DevOps / Tools:**  
+  Basic Docker | Cloudflare R2 (Video Streaming)
+
 
 ## 🤝 Teamwork & Challenges
 - Love collaborating in a team environment 🧑‍🤝‍🧑
