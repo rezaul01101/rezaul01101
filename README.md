@@ -1,36 +1,54 @@
-<h2 align="left">Hi 👋! My name is Rezaul Hoque and  mostly I work on JavaScript.</h2>
+# Hi, I'm Rezaul Hoque 👋
 
-###
+> Turning ☕ into Code and Bugs into Features!
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rezaul-haque-raaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+## 🚀 About Me
+I'm a full-stack developer who loves building web apps, solving problems, and learning new things every day.  
+I'm not just a coder — I’m a team player who believes the best projects happen with great collaboration.  
+I always take the extra step to dive into challenges because that's where the real growth happens! 🚀
+
+## 🛠️ Skills
+- **Frontend:**  
+  React.js | Next.js | JavaScript | Tailwind CSS
+
+- **Backend:**  
+  Node.js | Express.js | Laravel
+
+- **Database:**  
+  PostgreSQL | MySQL | MongoDB | Prisma
+
+- **DevOps / Tools:**  
+  Basic Docker | Cloudflare R2 (Video Streaming)
+
+## 🤝 Teamwork & Challenges
+- Love collaborating in a team environment 🧑‍🤝‍🧑
+- Always excited to take on extra challenges 🌟
+- Believe in clean code, clear communication, and creative problem solving 🎯
+- Passionate about building meaningful products that impact real users 💬
+
+## 💼 Showcase Projects
+- [**Project 1** - Your Project Name](#)  
+  📌 A short 1-2 line description about what it does and what you built.
+
+- [**Project 2** - Your Project Name](#)  
+  📌 Another cool project highlighting a skill you want to show off.
+
+_(You can add screenshots or live links too!)_
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/rezaul__raaz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-</div>
+  <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-</div>
-
-###
+🌟 _"Always coding like tomorrow is demo day. Always learning like tomorrow is launch day."_
