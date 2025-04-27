@@ -27,13 +27,28 @@ I always take the extra step to dive into challenges because that's where the re
 - Passionate about building meaningful products that impact real users 💬
 
 ## 💼 Showcase Projects
-- [**Project 1** - Your Project Name](#)  
-  📌 A short 1-2 line description about what it does and what you built.
+### 🚀 Money Manager
 
-- [**Project 2** - Your Project Name](#)  
-  📌 Another cool project highlighting a skill you want to show off.
+📌 **Money Manager** is a personal finance management application that helps users efficiently track their incomes and expenses.  
+It features an AI-powered assistant to generate instant financial summaries and insights, making budgeting smarter and easier.
 
-_(You can add screenshots or live links too!)_
+### 🖼️ Screenshots
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/1.png" alt="Transactions Overview" width="45%" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/3.png" alt="Ask AI Summary" width="45%" />
+</p>
+
+**Ask AI - Financial Summary:**
+![Ask AI Summary](https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/2.png)
+
+### ⚙️ Key Features
+- Track daily incomes and expenses
+- Add, edit, and delete transactions
+- Categorize income sources and expense types
+- View summarized financial reports
+- Ask AI for financial snapshots 📊
+- Beautiful and user-friendly dashboard
 
 ## 🌐 Connect with Me
 
