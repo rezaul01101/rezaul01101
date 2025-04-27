@@ -32,16 +32,19 @@ I always take the extra step to dive into challenges because that's where the re
 📌 **Money Manager** is a personal finance management application that helps users efficiently track their incomes and expenses.  
 It features an AI-powered assistant to generate instant financial summaries and insights, making budgeting smarter and easier.
 
+[🔗 Live Demo](https://money-tracking-client.vercel.app/login) &nbsp; | &nbsp;
+[🛠️ Frontend Repository](https://github.com/rezaul01101/money-tracking-client/tree/main) &nbsp; | &nbsp;
+[⚙️ Backend Repository](https://github.com/rezaul01101/money-tracking)
+
 ### 🖼️ Screenshots
 <p align="center">
   <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/1.png" alt="Transactions Overview" width="45%" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/3.png" alt="Ask AI Summary" width="45%" />
 </p>
-
-**Ask AI - Financial Summary:**
-![Ask AI Summary](https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/2.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/2.png" alt="Transactions Overview" width="45%" />
+</p>
 ### ⚙️ Key Features
 - Track daily incomes and expenses
 - Add, edit, and delete transactions
