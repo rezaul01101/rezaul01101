@@ -39,35 +39,21 @@ It features an AI-powered assistant to generate instant financial summaries and 
 
 ### 🖼️ Screenshots
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/1.png" alt="Transactions Overview" width="45%" />
+  <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/2.png" alt="Transactions Overview" width="45%" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/3.png" alt="Ask AI Summary" width="45%" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rezaul01101/money-tracking-client/refs/heads/main/public/app-screenshot/2.png" alt="Transactions Overview" width="45%" />
-</p>
-### ⚙️ Key Features
-- Track daily incomes and expenses
-- Add, edit, and delete transactions
-- Categorize income sources and expense types
-- View summarized financial reports
-- Ask AI for financial snapshots 📊
-- Beautiful and user-friendly dashboard
 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/rezaul-haque-raaz/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+<!--   <a href="https://twitter.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.youtube.com/channel/yourchannel" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+  </a> -->
 </p>
-
----
-
-🌟 _"Always coding like tomorrow is demo day. Always learning like tomorrow is launch day."_
