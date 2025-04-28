@@ -47,7 +47,7 @@ It features an AI-powered assistant to generate instant financial summaries and 
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/rezaul-haque-raaz/]" target="_blank">
+  <a href="https://www.linkedin.com/in/rezaul-haque-raaz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 <!--   <a href="https://twitter.com/yourhandle" target="_blank">
